@@ -41,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact Aravindh at arvindh10kumaresan@gmail.com .
+For any inquiries or feedback, feel free to contact me at arvindh10kumaresan@gmail.com .
 
